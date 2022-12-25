@@ -10,6 +10,7 @@ Some of my top projects that should be on the top
 - [MCQ] - An Exam control Platform. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
 - [E-Shomaj] - A Social Media Platform. Made with [Angular], [Node.js] and [MongoDB].
 - [NCPSC] - A school website. Made with [Angular].
+- [Current] - A curency converter. Made with [Angular]
 
 ## Android
 
@@ -29,6 +30,7 @@ on GitHub.
 [e-shomaj]: https://reddot-si.web.app
 [mcq]: https://mcq-si.web.app
 [ncpsc]: https://ncpsc-si.web.app
+[current]: https://current-si.web.app/
 [sellnet android]: https://play.google.com/store/apps/details?id=com.heronet.sellnetbeta
 [lplanner]: https://play.google.com/store/apps/details?id=com.heronet.lplanner
 [toph]: https://toph.co/u/HandyCoder
