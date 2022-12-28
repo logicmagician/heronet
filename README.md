@@ -20,7 +20,6 @@ Some of my top projects that should be on the top
 ## Competitive
 
 - [Toph] - Toph profile.
-- [Leetcode] - Leetcode prfile.
 
 All the projects are free and open source with [public repositories][heronet]
 on GitHub.
@@ -34,7 +33,6 @@ on GitHub.
 [sellnet android]: https://play.google.com/store/apps/details?id=com.heronet.sellnetbeta
 [lplanner]: https://play.google.com/store/apps/details?id=com.heronet.lplanner
 [toph]: https://toph.co/u/HandyCoder
-[leetcode]: https://leetcode.com/HanDecoder/
 [angular]: https://github.com/angular
 [asp.net core]: https://github.com/dotnet/aspnetcore
 [postgresql]: https://github.com/postgres/postgres
