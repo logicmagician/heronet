@@ -10,7 +10,7 @@ Some of my top projects that should be on the top
 - [MCQ] - An Exam control Platform. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
 - [E-Shomaj] - A Social Media Platform. Made with [Angular], [Node.js] and [MongoDB].
 - [NCPSC] - A school website. Made with [Angular].
-- [Current] - A curency converter. Made with [Angular].
+- [Current] - A curency converter with up-to-date currency data. Made with [Angular].
 - [Bling] - A number base converter with PWA support. Made with [Angular].
 - [Lab PC Manager] - A PC and components manager. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
 - [Market] - A material themed online market prototype. Made with [Angular].
