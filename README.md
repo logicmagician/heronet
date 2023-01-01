@@ -1,15 +1,15 @@
 # Overview
 
-Some of my top projects that should be on the top
+Some of my top projects.
 
 ## Web
 
-> Most of these use containers like Docker or Podman in the backend.
+> Most of these use containers like Docker or Podman in the backend for quick and scalable deployment.
 
+- [E-Shomaj] - A Social Media Platform. Made with [Angular], [Node.js] and [MongoDB].
 - [Sellnet] - An Onine Marketplace. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
 - [MCQ] - An Exam control Platform. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
-- [E-Shomaj] - A Social Media Platform. Made with [Angular], [Node.js] and [MongoDB].
-- [NCPSC] - A school website. Made with [Angular].
+- [NCPSC] - A school / college website. Made with [Angular].
 - [Current] - A curency converter with up-to-date currency data. Made with [Angular].
 - [Bling] - A number base converter with PWA support. Made with [Angular].
 - [Lab PC Manager] - A PC and components manager. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
