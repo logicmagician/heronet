@@ -4,7 +4,7 @@ Some of my top projects.
 
 ## Web
 
-> Most of these use containers like Docker or Podman in the backend for quick and scalable deployment.
+> Most of these use containers like `Docker` or `Podman` in the `backend` for quick and scalable deployment and have `Continuous Deployment(CD)` setup with Google Cloud Run. 
 
 - [E-Shomaj] - A Social Media Platform. Made with [Angular], [Node.js] and [MongoDB].
 - [Sellnet] - An Onine Marketplace. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
