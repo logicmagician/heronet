@@ -10,7 +10,7 @@ Some of my top projects.
 - [Sellnet] - An Onine Marketplace. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
 - [MCQ] - An Exam control Platform. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
 - [NCPSC] - A school / college website. Made with [Angular].
-- [Current] - A curency converter with up-to-date currency data. Made with [Angular].
+- [Current] - A currency converter with up-to-date currency data. Made with [Angular].
 - [Bling] - A number base converter with PWA support. Made with [Angular].
 - [Lab PC Manager] - A PC and components manager. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
 - [Market] - A material themed online market prototype. Made with [Angular].
