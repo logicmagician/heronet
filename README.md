@@ -30,7 +30,7 @@ on GitHub.
 
 [heronet]: https://giyhub.com/heronet
 [sellnet]: https://sellnet-si.web.app
-[e-shomaj]: https://reddot-si.web.app
+[e-shomaj]: https://shomaj.xyz
 [mcq]: https://mcq-si.web.app
 [ncpsc]: https://ncpsc-si.web.app
 [current]: https://current-si.web.app/
