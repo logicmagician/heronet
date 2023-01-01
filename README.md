@@ -28,7 +28,7 @@ Some of my top projects.
 All the projects are free and open source with [public repositories][heronet]
 on GitHub.
 
-[heronet]: https://giyhub.com/heronet
+[heronet]: https://github.com/heronet
 [sellnet]: https://sellnet-si.web.app
 [e-shomaj]: https://shomaj.xyz
 [mcq]: https://mcq-si.web.app
