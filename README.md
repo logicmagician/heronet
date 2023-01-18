@@ -6,7 +6,7 @@ Some of my top projects.
 
 > Most of these use containers like `Docker` or `Podman` in the `backend` for quick and scalable deployment and have `Continuous Deployment(CD)` setup with Google Cloud Run. 
 
-- [E-Shomaj] - A Social Media Platform. Made with [Angular], [Node.js] and [MongoDB].
+- [Connect] - A minimalist social media platform. Made with [Angular], [ASP.NET Core] including `SignalR`, and [PostgreSQL].
 - [Sellnet] - An Onine Marketplace. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
 - [MCQ] - An Exam control Platform. Made with [Angular], [ASP.NET Core], and [PostgreSQL].
 - [NCPSC] - A school / college website. Made with [Angular].
@@ -30,7 +30,7 @@ on GitHub.
 
 [heronet]: https://github.com/heronet
 [sellnet]: https://sellnet-si.web.app
-[e-shomaj]: https://shomaj.xyz
+[connect]: https://connect-si.web.app
 [mcq]: https://mcq-si.web.app
 [ncpsc]: https://ncpsc-si.web.app
 [current]: https://current-si.web.app/
