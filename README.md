@@ -1,10 +1,30 @@
-# Overview
-
-Some of my top projects.
+<div align="center">
+    <h2> Hi There, Welcome to my Github profile!</h2>
+    <a href="https://heronet.xyz" target="_blank">
+        <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website  />
+    </a>
+    <a href="https://linkedin.com/in/siratul-islam" target="_blank">
+        <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+    </a>
+    <a href="https://github.com/heronet" target="_blank">
+        <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github  />
+    </a>
+    <a href="https://fb.com/senorsirat" target="_blank">
+        <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=facebook  />
+    </a>
+    <a href="https://www.hackerrank.com/heronet" target="_blank">
+        <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=hackerrank  />
+    </a>
+</div>
+<div align="center" style="margin-top: 20px;">
+    <a href="https://github.com/heronet">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heronet&layout=compact&langs_count=25&theme=radical" />
+    </a>
+</div>
 
 ## Web
 
-> Most of these use containers like `Docker` or `Podman` in the `backend` for quick and scalable deployment and have `Continuous Deployment(CD)` setup with Google Cloud Run. 
+> Most of these use containers like `Docker` or `Podman` in the `backend` for quick and scalable deployment and have `Continuous Deployment(CD)` setup with Google Cloud Run.
 
 - [Connect] - A minimalist social media platform. Made with [Angular], [ASP.NET Core] including `SignalR`, and [PostgreSQL].
 - [E-Shomaj] - A Zoomer Social Media Platform. Made with [Angular], [Node.js] and [MongoDB].
@@ -24,14 +44,15 @@ Some of my top projects.
 
 ## Competitive
 
+- [Codeforces] - Codeforces profile.
 - [Toph] - Toph profile.
 
-All the projects are free and open source with [public repositories][heronet]
-on GitHub.
+> All the projects are free and open source with [public repositories][heronet]
+> on GitHub.
 
 [heronet]: https://github.com/heronet
 [sellnet]: https://sellnet-si.web.app
-[connect]: https://connect-si.web.app
+[connect]: https://uconnect.life
 [e-shomaj]: https://shomaj.xyz
 [mcq]: https://mcq-si.web.app
 [ncpsc]: https://ncpsc-si.web.app
@@ -43,6 +64,7 @@ on GitHub.
 [sellnet android]: https://play.google.com/store/apps/details?id=com.heronet.sellnetbeta
 [lplanner]: https://play.google.com/store/apps/details?id=com.heronet.lplanner
 [toph]: https://toph.co/u/HandyCoder
+[codeforces]: https://codeforces.com/profile/heronet
 [angular]: https://github.com/angular
 [asp.net core]: https://github.com/dotnet/aspnetcore
 [postgresql]: https://github.com/postgres/postgres
