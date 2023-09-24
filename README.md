@@ -16,12 +16,13 @@
         <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=hackerrank  />
     </a>
 </div>
-<div align="center" style="margin: 20px;">
+<p></p>
+<div align="center">
     <a href="https://github.com/heronet">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heronet&layout=compact&langs_count=25&theme=radical" />
     </a>
 </div>
-
+<p></p>
 My name is `Sirat`. I am a very curious developer who is very eager to learn every new technology. Throughout years, I have built several projects. Below you will find some of them. Feel free to explore my other repositories as well.
 
 ## Web
