@@ -23,6 +23,7 @@
     </a>
 </div>
 <p></p>
+
 My name is `Sirat`. I am a very curious developer who is very eager to learn every new technology. Throughout years, I have built several projects. Below you will find some of them. Feel free to explore my other repositories as well.
 
 ## Web
