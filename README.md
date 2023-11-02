@@ -28,8 +28,6 @@ My name is `Sirat`. I am a very curious developer who is very eager to learn eve
 
 ## Skills
 
-### Frameworks
-
 #### Frontend
 
 ![Angular Logo]
