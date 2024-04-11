@@ -21,15 +21,14 @@ My name is `Rakebul`. I am a very curious developer who is very eager to learn e
 
 #### Frontend
 
-![CSS3]
-![HTML5]
-![Javascript]
+CSS3
+HTML5
+Javascript
 
 #### Languages
 
-![C#]
-![C++]
-![C]
-![Javascript]
-![Python]
-![SQL]
+C++
+C
+Javascript
+Python
+SQL
