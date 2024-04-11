@@ -11,11 +11,7 @@
         <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=facebook  />
    
 </div>
-<p></p>
-<div align="center">
-    <a href="https://github.com/logicmagician">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heronet&layout=compact&langs_count=25&theme=radical" />
-    </a>
+
 </div>
 <p></p>
 
